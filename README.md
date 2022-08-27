@@ -1,5 +1,13 @@
+---
+tags: Tutorial
+---
+{%hackmd theme-dark %}
+
 # VSCode Settings
 A quick tutorial for myself.
+
+* [C++](#C++)
+* [Python](#Python)
 
 ## C++
 1. Download VSCode
@@ -22,9 +30,11 @@ A quick tutorial for myself.
     * Paste C:\MinGW\bin
     ![](https://i.imgur.com/Acon4lF.png)
     
-5. Set a folder for C++ Program
+5. Set a folder for C++ program
     * Structure like this
     ![](https://i.imgur.com/szf53C0.png)
+    
+    * Download from [here](https://github.com/YuYuTW123/VSCode_Settings) or copy codes below
     
     **task.json**
     ```json=
@@ -116,4 +126,42 @@ A quick tutorial for myself.
     ![](https://i.imgur.com/jFchpgA.png)
     * After building succeed, enter **./(Your_file_name).exe** it'll run the file.
     ![](https://i.imgur.com/eCAprOg.png)
+
+
+## Python
+
+1. Install Python
+    * [Click me](https://www.python.org/)
+    * Check if Python is installed in terminal.
+    ![](https://i.imgur.com/RWg25oD.png)
+    
+    **Note.** There's a checkbox for adding Python to PATH. So basically we don't need to add Python to Environment Variables by ourselves.
+    ![](https://i.imgur.com/3AikD5Q.png)
+
+2. Set a folder for Python program
+    * Structure like this
+    ![](https://i.imgur.com/pMP6gkw.png)
+
+    * Download from [here](https://github.com/YuYuTW123/VSCode_Settings) or copy codes below
+
+    **settings.json**
+    ```json=
+    {
+        "python.pythonPath": "C:\\Users\\User_name\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+        "python.linting.enabled": true,
+        "python.linting.pylintEnabled": true
+    }
+
+    ```
+3. Install Python Extension
+    ![](https://i.imgur.com/o6oWsr8.png)
+
+4. Start Coding!!
+    * Before executing the program, enter below codes in the terminal to install debugger.
+    ```pip intall pylint```
+    
+    * Enter **python (Your_file_name).py** in the terminal to run the file.
+    ![](https://i.imgur.com/UiMZGdP.png)
+    
+    
 
