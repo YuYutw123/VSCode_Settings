@@ -33,7 +33,7 @@ A quick tutorial for myself.
     
     * Download from [here](https://github.com/YuYuTW123/VSCode_Settings) or copy codes below
     
-    **task.json**
+    **tasks.json**
     ```json=
     {
         "tasks": [
