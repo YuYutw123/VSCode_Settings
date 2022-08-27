@@ -1,8 +1,3 @@
----
-tags: Tutorial
----
-{%hackmd theme-dark %}
-
 # VSCode Settings
 A quick tutorial for myself.
 
