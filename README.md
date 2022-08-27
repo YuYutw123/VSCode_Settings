@@ -21,7 +21,7 @@ A quick tutorial for myself.
     * [Click me](https://sourceforge.net/projects/mingw/)
     ![](https://i.imgur.com/yL0qK9E.png)
     * Select **mingw32-gcc-g++ (bin)**, and then go to **All Packges** select **mingw32-gdb (bin)**.
-    * And then click **Installation** -> **Apply Change**
+    * Click **Installation** -> **Apply Change**
 
 4. Set Environment Variables
     * Paste C:\MinGW\bin
