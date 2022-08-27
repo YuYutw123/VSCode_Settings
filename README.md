@@ -1,6 +1,5 @@
 # VSCode Settings
 A quick tutorial for myself.
-[Github Version](https://github.com/YuYuTW123/VSCode_Settings)
 
 * [C++](#C++)
 * [Python](#Python)
