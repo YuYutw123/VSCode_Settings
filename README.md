@@ -1,3 +1,8 @@
+---
+tags: Tutorial
+---
+{%hackmd theme-dark %}
+
 # VSCode Settings
 A quick tutorial for myself.
 
@@ -25,7 +30,7 @@ A quick tutorial for myself.
     * Paste C:\MinGW\bin
     ![](https://i.imgur.com/Acon4lF.png)
     
-5. Set a folder for C++ program
+5. Set folders for C++ program
     * Structure like this
     ![](https://i.imgur.com/szf53C0.png)
     
@@ -133,7 +138,7 @@ A quick tutorial for myself.
     **Note.** There's a checkbox for adding Python to PATH. So basically we don't need to add Python to Environment Variables by ourselves.
     ![](https://i.imgur.com/3AikD5Q.png)
 
-2. Set a folder for Python program
+2. Set folders for Python program
     * Structure like this
     ![](https://i.imgur.com/pMP6gkw.png)
 
