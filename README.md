@@ -1,8 +1,11 @@
 # VSCode Settings
 A quick tutorial for myself.
+[Github Version](https://github.com/YuYuTW123/VSCode_Settings)
 
 * [C++](#C++)
 * [Python](#Python)
+* [Node.js](#Node.js)
+* [Git](#Git)
 
 ## C++
 1. Download VSCode
@@ -159,4 +162,16 @@ A quick tutorial for myself.
     ![](https://i.imgur.com/UiMZGdP.png)
     
     
+## Node.js
 
+Install Node.js
+[Click me](https://nodejs.org/en/)
+    
+**Note.** Same as Python, the Environment Variables is already set, there's no need to set it again.
+
+## Git
+
+Install Git
+[Click me](https://git-scm.com/download/win)
+
+**Note.** Same as Python and Node.js, the Environment Variables is already set, there's no need to set it again.
